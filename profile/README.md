@@ -2,4 +2,4 @@ This page contains code developed by NICRF members. It also hosts code associate
 
 For comments or questions, email Matt Harris at m.harris@gns.cri.nz
 
-The NICRF is a facility jointly funded by [GNS Science](https://www.gns.cri.nz/) and [Victoria University of Wellington](https://www.wgtn.ac.nz/).
+The NICRF is jointly funded by [GNS Science](https://www.gns.cri.nz/) and [Victoria University of Wellington](https://www.wgtn.ac.nz/).
