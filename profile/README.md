@@ -1,4 +1,4 @@
-This page contains code developed by NICRF members. It also hosts code associated with publications arising from facility research by current or former members. The facility *does not* take credit for these works, and hosts them for sharing, collaboration, and internal use purposes. Reference/cite the original authors as per the instructions in each repository.
+This page contains code repositories developed and/or used by NICRF members. It also hosts code associated with publications arising from facility research by current or former members. This page *does not* assume credit for any hosted repository. Reference/cite the original authors as per the instructions in each repository.
 
 For comments or questions, email Matt Harris at m.harris@gns.cri.nz
 
