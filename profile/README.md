@@ -6,5 +6,5 @@ The NICRF is jointly funded by [GNS Science](https://www.gns.cri.nz/) and [Victo
 
 We are engaged in a range of ongoing research programmes, including:
 * The [Roosevelt Island Climate Evolution project (RICE)](http://www.rice.aq/).
-* 'Antarctic Sea Ice Switch' (ASIS), a recently funded MBIE Endeavour project.
+* [Antarctic Sea Ice Switch (ASIS)](https://www.seaice.aq/), an MBIE Endeavour programme.
 * Diverse contributions to New Zealand's Antarctic Science Platform.
