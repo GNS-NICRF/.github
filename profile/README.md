@@ -8,3 +8,5 @@ We are engaged in a range of ongoing research programmes, including:
 * The [Roosevelt Island Climate Evolution project (RICE)](http://www.rice.aq/).
 * [Antarctic Sea Ice Switch (ASIS)](https://www.seaice.aq/), an NZ MBIE Endeavour programme focused on understanding recent dramatic shifts in sea ice within the Ross Sea.
 * Diverse contributions to New Zealand's [Antarctic Science Platform](https://www.antarcticscienceplatform.org.nz/).
+
+![image of ice core illuminated from beneath](https://github.com/GNS-NICRF/media/blob/main/images/7450_Margaret%20Low_GNS%20Science.jpg)
