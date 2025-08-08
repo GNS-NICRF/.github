@@ -9,4 +9,4 @@ We are engaged in a range of ongoing research programmes, including:
 * [Antarctic Sea Ice Switch (ASIS)](https://www.seaice.aq/), an NZ MBIE Endeavour programme focused on understanding recent dramatic shifts in sea ice within the Ross Sea.
 * Diverse contributions to New Zealand's [Antarctic Science Platform](https://www.antarcticscienceplatform.org.nz/).
 
-![image of ice core illuminated from beneath](https://github.com/GNS-NICRF/media/blob/main/images/GNS-image-mosaic-ICF-github.png)
+![mosaic of several images including inside a shallow ice core drill tent, a field camp in Antarctica, an ice core illuminated from beneath, and a black and white photo of team members working in the facility clean lab](https://github.com/GNS-NICRF/.github/blob/main/images/GNS-image-mosaic-ICF-github.png) 
