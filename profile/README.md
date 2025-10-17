@@ -1,6 +1,6 @@
 This page contains code repositories developed and/or used by NICRF members. It also hosts code associated with publications arising from facility research by current or former members. This page *does not* assume credit or ownership of any hosted repositories unless explicitly stated as such within a given repository. Please reference/cite the original authors as per the instructions in each repository.
 
-For comments or questions about this repository or our facility, email [Matt Harris](https://www.gns.cri.nz/about-us/staff-search/matt-harris/) at [m.harris@gns.cri.nz](mailto:m.harris@gns.cri.nz). The NICRF is led by [Dr Nancy Bertler](https://www.gns.cri.nz/about-us/our-people/meet-our-principal-scientists/dr-nancy-bertler/).
+For comments or questions about this page or our facility, email [Dr Matt Harris](https://www.gns.cri.nz/about-us/staff-search/matt-harris/) at [m.harris@gns.cri.nz](mailto:m.harris@gns.cri.nz). The NICRF is led by [Dr Nancy Bertler](https://www.gns.cri.nz/about-us/our-people/meet-our-principal-scientists/dr-nancy-bertler/).
 
 The NICRF is jointly funded by [Earth Sciences New Zealand](https://www.earthsciences.nz/) (formerly GNS Science) and [Victoria University of Wellington](https://www.wgtn.ac.nz/).
 
